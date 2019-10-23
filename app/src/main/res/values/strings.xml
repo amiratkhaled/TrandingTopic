@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TrendingTopic</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">RiDn30K8LdWJJZBSZ8SIRRXce</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">fhw35dfuHqGujOSdqE2o7OiXIhjLeYlscZrycYfnJ1vfrrKfyq</string>
+
+    <string name="Action.ShowTweet.Logout">Log Out</string>
 </resources>
+
